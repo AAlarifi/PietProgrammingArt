@@ -4,7 +4,7 @@ Piet is a programming language in which programs look like abstract paintings. T
 ### Where to program in piet
 [Piet IDE](https://gabriellesc.github.io/piet/)
 
-# MY Piet Programming Art
+## MY Piet Programming Art
 ![Image of a nerd made in Piet](https://raw.githubusercontent.com/AAlarifi/PietProgrammingArt/main/itJustWorks/Nerd.png)
 Prints out "IT WORKS"
 
