@@ -12,5 +12,5 @@ Piet is a programming language in which programs look like abstract paintings. T
 <div align="center"> Prints out "EXILE" (Codel Size 25) </div>
 <div align="center"><img src="https://raw.githubusercontent.com/AAlarifi/PietProgrammingArt/main/art/404.png" height="225px">        <img src="https://raw.githubusercontent.com/AAlarifi/PietProgrammingArt/main/art/404Corrupted.png" height="225px"></div>
 <div align="center"> Prints out "Error 404" (Codel Size 25) </div>
-<div align="center"><img src="https://raw.githubusercontent.com/AAlarifi/PietProgrammingArt/main/All/BSc%20(Hons)%20%20Software%20Engineering%202024%20Graduate.png" height="225px"></div>
+<div align="center"><img src="https://raw.githubusercontent.com/AAlarifi/PietProgrammingArt/main/All/BSc%20(Hons)%20%20Software%20Engineering%202024%20Graduate.png" height="325px"></div>
 <div align="center"> Prints out "BSc (Hons) Software Engineering 2024 Graduate" (Codel Size 18) </div>
